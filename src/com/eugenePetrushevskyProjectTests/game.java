@@ -17,6 +17,7 @@ public class game {
     public static void main(String[] args) throws IOException {
         System.out.println("вчера был мой день рождения");
 //хоп хей пива налей
+        //послали за одной он дурак - одну и принес
         //считываем переменные для диапазона случайных чисел
         System.out.println("Сыграем в игру Угадай число!");
         System.out.println("Введите дипазон чисел для игры, например от 0 до 10, но можно и больше!!!");
