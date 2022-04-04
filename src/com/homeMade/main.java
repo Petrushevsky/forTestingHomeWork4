@@ -5,5 +5,6 @@ public class main {
         System.out.println("Упала шляпа");
         System.out.println("упала на пол");
         System.out.println("всё переменится родная");
+        System.out.println("Вот єто поворот!!!");
     }
 }
