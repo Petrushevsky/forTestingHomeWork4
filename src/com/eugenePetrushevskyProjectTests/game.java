@@ -10,10 +10,12 @@ import java.io.InputStreamReader;
  * Число загаданное компьютером должно генерироваться рендомно (перед тем как пользователь начнет угадывать).
  */
 //Чпоньк
+
 public class game {
     static final BufferedReader READER = new BufferedReader(new InputStreamReader(System.in));
 
     public static void main(String[] args) throws IOException {
+        System.out.println("вчера был мой день рождения");
 
         //считываем переменные для диапазона случайных чисел
         System.out.println("Сыграем в игру Угадай число!");
