@@ -9,6 +9,7 @@ import java.io.InputStreamReader;
  * Пользователь отгадывает число, ПОКА не отгадает.
  * Число загаданное компьютером должно генерироваться рендомно (перед тем как пользователь начнет угадывать).
  */
+//Чпоньк
 public class game {
     static final BufferedReader READER = new BufferedReader(new InputStreamReader(System.in));
 
